@@ -7,7 +7,31 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>Hauturier</copyright>
-        <lastBuildDate>Wed, 09 Oct 2024 10:45:36 +0800</lastBuildDate><atom:link href="https://example.com/tags/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Tue, 15 Oct 2024 12:51:25 +0800</lastBuildDate><atom:link href="https://example.com/tags/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>HashMap</title>
+        <link>https://example.com/tags/hashmap/</link>
+        <pubDate>Tue, 15 Oct 2024 12:51:25 +0800</pubDate>
+        
+        <guid>https://example.com/tags/hashmap/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Java</title>
+        <link>https://example.com/tags/java/</link>
+        <pubDate>Tue, 15 Oct 2024 12:51:25 +0800</pubDate>
+        
+        <guid>https://example.com/tags/java/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>LeetCode</title>
+        <link>https://example.com/tags/leetcode/</link>
+        <pubDate>Tue, 15 Oct 2024 12:51:25 +0800</pubDate>
+        
+        <guid>https://example.com/tags/leetcode/</guid>
+        <description></description>
+        </item>
+        <item>
         <title>Hugo</title>
         <link>https://example.com/tags/hugo/</link>
         <pubDate>Wed, 09 Oct 2024 10:45:36 +0800</pubDate>
